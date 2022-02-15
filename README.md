@@ -1,1 +1,5 @@
-# praktikumGit
+# resumeGit
+Ada tiga poin penting dalam pembelajaran mengenai Git pada hari ini, yaitu :
+1. Git merupakan suatu sistem kontrol versi terdistribusi yang populer di kalangan developer yang fungsinya mempermudah dalam berkolaborasi dan pastinya versioning, yaitu mengatur versi dari source code program.
+2. Bagaimana mengimplementasikan langsung (hands-on) materi ke Git mulai dari instalasi; add dan commit repository; push, fetch dan pull repository; reset; pengenalan file .gitignore; stash; hingga branch management, khususnya menggunakan repository GitHub.
+3. Tips-tips untuk mengoptimalisasikan workflow pada Git, seperti membiarkan branch master tidak tersentuh sama sekali, tidak mengedit langsung ke branch development sebaiknya menambah fitur-fitur branch, jika ingin merge fitur lakukan merge ke development, ketika semua sudah selesai baru kita bisa merging branch development dan main.
